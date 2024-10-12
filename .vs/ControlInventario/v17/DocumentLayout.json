@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96D3FC-B71B-42C3-93E6-D303D72B2934}|ControlInventario.csproj|C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96D3FC-B71B-42C3-93E6-D303D72B2934}|ControlInventario.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96D3FC-B71B-42C3-93E6-D303D72B2934}|ControlInventario.csproj|C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96D3FC-B71B-42C3-93E6-D303D72B2934}|ControlInventario.csproj|solutionrelative:productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96D3FC-B71B-42C3-93E6-D303D72B2934}|ControlInventario.csproj|C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96D3FC-B71B-42C3-93E6-D303D72B2934}|ControlInventario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96D3FC-B71B-42C3-93E6-D303D72B2934}|ControlInventario.csproj|c:\\users\\yadira\\source\\repos\\controlinventario\\arreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96D3FC-B71B-42C3-93E6-D303D72B2934}|ControlInventario.csproj|solutionrelative:arreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControlInventario||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Git\\ReleaseNotes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReleaseNotes.html",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Git\\ReleaseNotes.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Git\\ReleaseNotes.html",
+              "ToolTip": "C:\\Program Files (x86)\\Git\\ReleaseNotes.html",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Git\\ReleaseNotes.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-11T21:31:46.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlInventario",
+              "DocumentMoniker": "C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\ControlInventario.csproj",
+              "RelativeDocumentMoniker": "ControlInventario.csproj",
+              "ToolTip": "C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\ControlInventario.csproj",
+              "RelativeToolTip": "ControlInventario.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-12T02:49:30.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\Productos.cs",
+              "RelativeDocumentMoniker": "Productos.cs",
+              "ToolTip": "C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\Productos.cs",
+              "RelativeToolTip": "Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:16:46.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arreglos.cs",
+              "DocumentMoniker": "C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\Arreglos.cs",
+              "RelativeDocumentMoniker": "Arreglos.cs",
+              "ToolTip": "C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\Arreglos.cs",
+              "RelativeToolTip": "Arreglos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:12:52.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\menu.cs",
+              "RelativeDocumentMoniker": "menu.cs",
+              "ToolTip": "C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\menu.cs",
+              "RelativeToolTip": "menu.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:11:11.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\YADIRA\\source\\repos\\ControlInventario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:09:06.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

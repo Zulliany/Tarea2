@@ -1,0 +1,2 @@
+C:\Users\YADIRA\source\repos\ControlInventario\obj\Debug\ControlInventario.csproj.AssemblyReference.cache
+C:\Users\YADIRA\source\repos\ControlInventario\obj\Debug\ControlInventario.csproj.CoreCompileInputs.cache
